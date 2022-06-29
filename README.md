@@ -44,4 +44,5 @@ Terminal
     User found: [{1 Blue Train bluetrain@mail.com}]
     ID of added users: 3
 
-  
+ 
+ https://go.dev/doc/tutorial/database-access
